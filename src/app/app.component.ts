@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'practice-typescript';
+  xyzzy = 'transport me!';
+  TheAnswer = 42;
+  hammerTime = new Date(1990, 1, 13);
+  whoKnows;
 }
+
